@@ -53,4 +53,4 @@ I build machine learning and GenAI applications, from data analysis and model tr
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasvi-a11y&layout=compact&theme=dark&hide_border=true)
 
 ## Connect with me
-[LinkedIn](https://www.linkedin.com/in/manasvi-verma-81986329b/) · [Email](manasviverma68@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/manasvi-verma-81986329b/) · [Email](mailto:manasviverma68@gmail.com) 
