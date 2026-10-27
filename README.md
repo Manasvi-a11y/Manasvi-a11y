@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Manasvi-a11y&label=Profile%20views&color=blue&style=flat-square)
 
-Final-year B.Tech CSE student (AI and ML) at Vellore Institute of Technology, Bhopal.
+Final-year B.Tech Computer Science and Engineering specialization (AI & ML) student at Vellore Institute of Technology, Bhopal.
 I build machine learning and GenAI applications, from data analysis and model training to cloud deployment. Looking for AI/ML Engineer, Data Analyst and Software Engineer roles.
 
 ## When I code, I rely on
